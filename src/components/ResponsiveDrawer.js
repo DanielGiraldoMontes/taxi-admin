@@ -72,7 +72,7 @@ function ResponsiveDrawer(props) {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap>
-            GrabCab Admin
+            SeguTaxi Admin
           </Typography>
         </Toolbar>
       </AppBar>
